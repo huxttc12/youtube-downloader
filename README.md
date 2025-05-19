@@ -36,15 +36,9 @@ WebSocket 或 Server-Sent Events：实时反馈下载进度（可选）。
 安装依赖：
 确保服务器已安装 Python 3.8+、pip、ffmpeg。
 
-安装 yt-dlp：
-bash
+安装 yt-dlp：pip install yt-dlp
 
-pip install yt-dlp
-
-安装 Flask（或 FastAPI）：
-bash
-
-pip install flask
+安装 Flask（或 FastAPI）：pip install flask
 
 项目结构：
 
