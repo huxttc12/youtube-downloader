@@ -1,0 +1,9 @@
+youtube-downloader/
+├── app.py              # 后端 Flask 应用
+├── static/             # 静态文件（CSS, JS）
+│   ├── style.css
+│   └── script.js
+├── templates/          # HTML 模板
+│   └── index.html
+├── downloads/          # 临时存储下载文件
+└── requirements.txt
